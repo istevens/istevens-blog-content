@@ -4,7 +4,6 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Ian Stevens'
 SITENAME = u'Yes, This Is Ian Stevens'
-SITEURL = '//istevens.github.io'
 THEME = 'theme'
 CSS_FILE = 'style.css'
 
