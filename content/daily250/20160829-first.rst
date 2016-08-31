@@ -14,9 +14,9 @@ A few days ago, I wondered which other activity could benefit from daily
 practice. Writing seemed like an obvious choice, requiring limited tools and a
 small time commitment. My daily writing regimen has three restrictions:
 
- * Write and publish at least 250 words on a topic decided that day,
- * Write with limited `repetition and deviation <http://www.bbc.co.uk/programmes/b006s5dp>`_ from the topic, and
- * Have fun.
+* Write and publish at least 250 words on a topic decided that day,
+* Write with limited `repetition and deviation <http://www.bbc.co.uk/programmes/b006s5dp>`_ from the topic, and
+* Have fun.
 
 As with my photography, I want to create good pieces, but good pieces every day
 is not a requirement. Most of what I write will be absolute garbage, as
