@@ -41,5 +41,5 @@ bought a bulky low-end Sigma zoom lens for versatility, but I never truly
 explored the 50mm lens until very recently.
 
 This brings me to `my first digital cameras
-<{filename}20160831-digital-cameras.rst>`_, something which I'll complete in a
+<{filename}20160901-digital-cameras.rst>`_, something which I'll complete in a
 later post.
