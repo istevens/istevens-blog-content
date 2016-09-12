@@ -13,7 +13,7 @@ My very first Apple product was an Apple SE I bought for $5 at a University of
 Waterloo surplus sale around 1998. I never used this seriously and bought it as
 a joke. I've since lost track of the SE's whereabouts.
 
-I bought my first Apple product, a Powerbook G5, in 2005 after
+I bought my first Apple product I truly used, a Powerbook G5, in 2005 after
 years of using DOS or Linux variants on PC hardware. Mac OS, with BSD under the
 hood, was a Unix OS put out by a company passionate about user experience, and
 I was sold. Sure, it cost more than Linux machines I could piece together
