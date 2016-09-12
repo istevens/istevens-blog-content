@@ -26,7 +26,7 @@ large for me to carry or use one-handed.
 
 My feature phones have cost next-to-nothing, but also keep my overall wireless
 costs down. I barely use my phone, and feel that I'm paying far too much for my
-plan as it is. All told, my wireless bill is $35 after taxes. There are two
+plan as it is. All told, my wireless bill is less than $35 after taxes. There are two
 occasions when I have truly yearned for a smartphone: while wondering how long
 until the next bus, and while trying to hail a cab. I can't justify doubling or
 trebling my phone bill for NextBus.com and Über, not to mention the cost of
